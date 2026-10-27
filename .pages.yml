@@ -1,0 +1,58 @@
+media:
+  input: images
+  output: /images
+
+content:
+  - name: site
+    label: Mon site
+    type: file
+    path: content/site.json
+    fields:
+      - { name: nom, label: Nom, type: string }
+      - { name: metier, label: Métier, type: string }
+      - name: heroImage
+        label: Grande photo du haut
+        type: object
+        fields:
+          - { name: src, label: Photo, type: image }
+          - { name: alt, label: "Description de la photo (pour les malvoyants)", type: string }
+      - { name: heroTitre, label: Titre sur la photo, type: string }
+      - { name: heroTexte, label: Phrase sous le titre, type: string }
+      - { name: profil, label: Profil, type: text }
+      - name: expertise
+        label: Expertise
+        type: object
+        list: true
+        fields:
+          - { name: titre, label: Titre, type: string }
+          - { name: texte, label: Texte, type: text }
+      - { name: outils, label: Consoles et logiciels, type: string, list: true }
+      - { name: outilsNote, label: Phrase sous les consoles, type: string }
+      - name: realisations
+        label: Réalisations
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{titre}"
+        fields:
+          - { name: titre, label: Nom de l'événement, type: string }
+          - { name: quand, label: "Lieu et année", type: string }
+          - { name: texte, label: Ce que j'ai fait, type: text }
+          - name: photos
+            label: Photos
+            type: object
+            list: true
+            fields:
+              - { name: src, label: Photo, type: image }
+              - { name: alt, label: "Description de la photo (pour les malvoyants)", type: string }
+              - { name: legende, label: Légende sous la photo, type: string }
+          - name: lien
+            label: "Lien vers des photos ailleurs (ex. Facebook), facultatif"
+            type: object
+            fields:
+              - { name: url, label: Adresse du lien, type: string }
+              - { name: texte, label: Texte du lien, type: string }
+      - { name: telephone, label: Téléphone, type: string }
+      - { name: courriel, label: Courriel, type: string }
+      - { name: marques, label: Marques utilisées, type: string }
