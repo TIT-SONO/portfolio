@@ -1,0 +1,143 @@
+{
+  "nom": "Tristan Morin",
+  "metier": "Technicien de son",
+  "heroImage": {
+    "src": "/images/festiglace-foule.jpg",
+    "alt": "Le public devant la scène extérieure du Festiglace, vu depuis la régie."
+  },
+  "heroTitre": "Sonorisation · FOH · Musique",
+  "heroTexte": "Festivals, galas et événements, avec ou sans matériel.",
+  "profil": "J'étudie en Technologie sonore au Cégep de Drummondville. Je travaille surtout dans Lanaudière. Je peux arriver avec mon matériel ou travailler sur celui de la place.",
+  "expertise": [
+    {
+      "titre": "FOH",
+      "texte": "Le mix pour le public, des balances jusqu'à la fin du spectacle."
+    },
+    {
+      "titre": "Moniteur",
+      "texte": "Le son sur scène pour que les musiciens s'entendent bien."
+    },
+    {
+      "titre": "Musique et lecture",
+      "texte": "La musique d'ambiance et l'envoi des sons avec QLab."
+    }
+  ],
+  "outils": [
+    "Yamaha QL1, QL5 et CL5",
+    "Behringer X32",
+    "Midas M32 et M32R",
+    "Allen & Heath SQ et QU, à l'occasion",
+    "Pro Tools, pour l'enregistrement",
+    "QLab, licence audio"
+  ],
+  "outilsNote": "Si je ne connais pas une console, je l'apprends vite.",
+  "realisations": [
+    {
+      "titre": "Festiglace",
+      "quand": "Saint-Côme, hivers 2026",
+      "texte": "FOH et Moniteur avec mon employeur, Rémi Forget, sur la scène extérieure et à l'after en salle. Matériel loué.",
+      "photos": [
+        {
+          "src": "/images/festiglace-foule.jpg",
+          "alt": "Le public en habits d'hiver devant la scène du Festiglace, vu depuis la régie.",
+          "legende": "Festiglace, vue de la régie."
+        },
+        {
+          "src": "/images/festiglace-scene.jpg",
+          "alt": "La scène dans la neige, avec les enceintes et les caissons de chaque côté.",
+          "legende": "Festiglace, la diffusion installée."
+        },
+        {
+          "src": "/images/festiglace-after.jpg",
+          "alt": "Un groupe sur scène dans une salle, avec la console Yamaha QL1 au premier plan.",
+          "legende": "L'after du Festiglace, sur une QL1."
+        }
+      ],
+      "lien": {
+        "url": "",
+        "texte": ""
+      }
+    },
+    {
+      "titre": "Course des Petits Loups",
+      "quand": "Saint-Côme, 2025 et 2026",
+      "texte": "Musique pendant la course, avec mon matériel.",
+      "photos": [],
+      "lien": {
+        "url": "",
+        "texte": ""
+      }
+    },
+    {
+      "titre": "Gala de la Goutte d'or",
+      "quand": "École secondaire des Chutes, Rawdon, depuis 2024 (dernier gala le 22 juin 2026)",
+      "texte": "Le son du gala de mon ancienne école, chaque année.",
+      "photos": [],
+      "lien": {
+        "url": "https://www.facebook.com/share/p/1CNbhQFPEV/",
+        "texte": "Voir les photos du gala 2026 sur Facebook"
+      }
+    },
+    {
+      "titre": "Spectacle privé",
+      "quand": "2025",
+      "texte": "Installation complète pour un groupe live : micros, retours et façade.",
+      "photos": [
+        {
+          "src": "/images/prive-salle.jpg",
+          "alt": "Une salle aux murs de bois avec des tables, des pieds de micro et un retour installés devant la petite scène.",
+          "legende": "Spectacle privé, les micros installés devant la salle."
+        },
+        {
+          "src": "/images/prive-scene.jpg",
+          "alt": "La petite scène avec une batterie Yamaha, des micros sur pieds et deux enceintes de chaque côté.",
+          "legende": "Spectacle privé, la scène prête avant les balances."
+        }
+      ],
+      "lien": {
+        "url": "",
+        "texte": ""
+      }
+    },
+    {
+      "titre": "Chorale à l'église",
+      "quand": "[Lieu, année]",
+      "texte": "Les micros de la chorale et des musiciens devant le chœur, avec la diffusion pour toute l'église.",
+      "photos": [
+        {
+          "src": "/images/chorale-nef.jpg",
+          "alt": "Une grande église vue depuis le chœur, avec une rangée de micros devant les bancs.",
+          "legende": "Chorale à l'église, les micros face à la nef."
+        },
+        {
+          "src": "/images/chorale-choeur.jpg",
+          "alt": "Le chœur de l'église avec des pieds de micro et des lutrins devant l'autel.",
+          "legende": "Chorale à l'église, l'installation devant le chœur."
+        }
+      ],
+      "lien": {
+        "url": "",
+        "texte": ""
+      }
+    },
+    {
+      "titre": "Secondaire en spectacle",
+      "quand": "École secondaire des Chutes, Rawdon, 2023",
+      "texte": "Le son de la finale locale, à la console en arrière de la salle.",
+      "photos": [
+        {
+          "src": "/images/ses-console.jpg",
+          "alt": "Tristan assis à la console de son, la salle de spectacle derrière lui.",
+          "legende": "Secondaire en spectacle 2023, à la console."
+        }
+      ],
+      "lien": {
+        "url": "",
+        "texte": ""
+      }
+    }
+  ],
+  "telephone": "450-803-0524",
+  "courriel": "TIT-SONO@outlook.com",
+  "marques": "Yamaha · Midas · Behringer · Allen & Heath · Avid Pro Tools · QLab"
+}
