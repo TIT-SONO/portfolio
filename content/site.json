@@ -7,34 +7,34 @@
     "alt": "Le public devant la scène extérieure du Festiglace, vu depuis la régie."
   },
   "heroTitre": "Sonorisation et technique audio pour vos événements",
-  "heroTexte": "Festivals, spectacles, galas et événements privés dans Lanaudière et les environs.",
-  "profil": "J'étudie en Technologie sonore au Cégep de Drummondville. Je travaille surtout dans Lanaudière. Je peux arriver avec mon matériel ou travailler sur celui de la place.",
+  "heroTexte": "Technicien de son pour festivals, spectacles, galas et événements privés dans Lanaudière et les environs. Disponible aussi pour des contrats techniques auprès d’entreprises de sonorisation.",
+  "profil": "Je suis Tristan Morin, technicien de son et étudiant en Technologie sonore au Cégep de Drummondville. J’interviens sur des festivals, des spectacles, des galas et des événements privés dans Lanaudière et les environs. Je peux assurer la sonorisation avec mon propre matériel ou travailler sur le système déjà installé. Je suis également disponible pour des contrats auprès d’entreprises de sonorisation.",
   "services": [
     {
-      "titre": "Avec mon matériel",
-      "texte": "J'arrive avec le système de son et je m'occupe de tout, de l'installation au démontage."
+      "titre": "Sonorisation avec mon matériel",
+      "texte": "Pour les petits et moyens événements, je peux fournir le système de son et assurer l’installation, l’opération pendant l’événement et le démontage, selon les besoins convenus."
     },
     {
-      "titre": "Sur le système en place",
-      "texte": "Je prends la console de la salle ou du système loué et je fais le son de votre événement."
+      "titre": "Technicien sur place",
+      "texte": "Je peux travailler sur le système déjà installé ou loué : préparation, balances, mixage et soutien technique pendant le spectacle."
     },
     {
-      "titre": "Pour les entreprises de son",
-      "texte": "Disponible pour des contrats comme technicien : FOH, moniteurs ou lecture QLab."
+      "titre": "Renfort pour les équipes de son",
+      "texte": "Disponible pour des contrats comme technicien auprès d’entreprises de sonorisation et d’équipes de production, notamment en façade (FOH), aux moniteurs ou pour la lecture audio avec QLab."
     }
   ],
   "expertise": [
     {
-      "titre": "FOH",
-      "texte": "Le mix pour le public, des balances jusqu'à la fin du spectacle."
+      "titre": "Façade (FOH)",
+      "texte": "Mixage destiné au public, préparation de la console et balances jusqu’à la fin du spectacle."
     },
     {
-      "titre": "Moniteur",
-      "texte": "Le son sur scène pour que les musiciens s'entendent bien."
+      "titre": "Moniteurs de scène",
+      "texte": "Gestion des retours pour aider les artistes à bien s’entendre sur scène."
     },
     {
-      "titre": "Musique et lecture",
-      "texte": "La musique d'ambiance et l'envoi des sons avec QLab."
+      "titre": "Lecture et diffusion audio",
+      "texte": "Musique d’ambiance et déclenchement de contenus audio avec QLab, selon les besoins de la production."
     }
   ],
   "outils": [
@@ -45,12 +45,12 @@
     "Pro Tools, pour l'enregistrement",
     "QLab, licence audio"
   ],
-  "outilsNote": "Si je ne connais pas une console, je l'apprends vite.",
+  "outilsNote": "Mon expérience varie selon les consoles et les productions. Je confirme toujours les besoins techniques avant le contrat.",
   "realisations": [
     {
       "titre": "Festiglace",
       "quand": "Saint-Côme, hivers 2026",
-      "texte": "FOH et Moniteur avec mon employeur, Rémi Forget, sur la scène extérieure et à l'after en salle. Matériel loué.",
+      "texte": "Intervention en façade (FOH) et aux moniteurs avec mon employeur, Rémi Forget, sur la scène extérieure et lors de l’after en salle. Le matériel de sonorisation était loué.",
       "photos": [
         {
           "src": "/images/festiglace-foule.jpg",
@@ -76,7 +76,7 @@
     {
       "titre": "Spectacle privé",
       "quand": "2025",
-      "texte": "Installation complète pour un groupe live : micros, retours et façade.",
+      "texte": "Installation et préparation de la sonorisation pour un groupe en spectacle : microphones, retours et façade, avant les balances.",
       "photos": [
         {
           "src": "/images/prive-salle.jpg",
@@ -113,7 +113,7 @@
     {
       "titre": "Chorale à l'église",
       "quand": "",
-      "texte": "Les micros de la chorale et des musiciens devant le chœur, avec la diffusion pour toute l'église.",
+      "texte": "Installation de microphones pour la chorale et les musiciens, avec diffusion sonore dans l’église.",
       "photos": [
         {
           "src": "/images/chorale-nef.jpg",
@@ -134,7 +134,7 @@
     {
       "titre": "Course des Petits Loups",
       "quand": "Saint-Côme, 2025 et 2026",
-      "texte": "Musique pendant la course, avec mon matériel.",
+      "texte": "Diffusion de musique pendant la course à Saint-Côme, avec mon propre matériel.",
       "photos": [],
       "lien": {
         "url": "",
@@ -144,7 +144,7 @@
     {
       "titre": "Gala de la Goutte d'or",
       "quand": "École secondaire des Chutes, Rawdon, depuis 2024 (dernier gala le 22 juin 2026)",
-      "texte": "Le son du gala de mon ancienne école, chaque année.",
+      "texte": "Sonorisation du gala de mon ancienne école, auquel je contribue chaque année depuis 2024. Le lien ci-dessous mène à la publication du gala 2026.",
       "photos": [],
       "lien": {
         "url": "https://www.facebook.com/share/p/1CNbhQFPEV/",
