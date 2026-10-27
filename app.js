@@ -80,5 +80,5 @@ fetch('/content/site.json', { cache: 'no-cache' }).then(function (r) { if (!r.ok
   ])]));
   preview();
 }).catch(function () {
-  document.getElementById('tm-app').innerHTML = '<p style="padding:24px 16px">Le site n\'a pas pu se charger. Recharge la page, ou écris à <a href="mailto:TIT-SONO@outlook.com">TIT-SONO@outlook.com</a>.</p>';
+  document.getElementById('tm-app').innerHTML = '<p style="padding:24px 16px">Le site n\'a pas pu se charger. Recharge la page, ou écris à <a href="mailto:titsono@outlook.com">titsono@outlook.com</a>.</p>';
 });

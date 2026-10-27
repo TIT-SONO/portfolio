@@ -6,9 +6,9 @@
     "src": "/images/festiglace-foule.jpg",
     "alt": "Le public devant la scène extérieure du Festiglace, vu depuis la régie."
   },
-  "heroTitre": "Sonorisation et technique audio pour vos événements",
-  "heroTexte": "Technicien de son pour festivals, spectacles, galas et événements privés dans Lanaudière et les environs. Disponible aussi pour des contrats techniques auprès d’entreprises de sonorisation.",
-  "profil": "Je suis Tristan Morin, technicien de son et étudiant en Technologie sonore au Cégep de Drummondville. J’interviens sur des festivals, des spectacles, des galas et des événements privés dans Lanaudière et les environs. Je peux assurer la sonorisation avec mon propre matériel ou travailler sur le système déjà installé. Je suis également disponible pour des contrats auprès d’entreprises de sonorisation.",
+  "heroTitre": "Le son au service de vos événements.",
+  "heroTexte": "Sonorisation et assistance technique pour festivals, spectacles, galas et événements privés dans Lanaudière et les environs. Disponible aussi comme technicien pour les entreprises de sonorisation.",
+  "profil": "Je suis Tristan Morin, technicien de son et étudiant en Technologie sonore au Cégep de Drummondville. J’interviens sur des festivals, spectacles, galas et événements privés. Selon les besoins, je peux fournir mon propre matériel ou travailler sur le système déjà installé. Je suis également disponible comme technicien pour les entreprises de sonorisation et les équipes de production.",
   "services": [
     {
       "titre": "Sonorisation avec mon matériel",
@@ -112,7 +112,6 @@
     },
     {
       "titre": "Chorale à l'église",
-      "quand": "",
       "texte": "Installation de microphones pour la chorale et les musiciens, avec diffusion sonore dans l’église.",
       "photos": [
         {
@@ -153,6 +152,6 @@
     }
   ],
   "telephone": "450-803-0524",
-  "courriel": "TIT-SONO@outlook.com",
+  "courriel": "titsono@outlook.com",
   "marques": "Yamaha · Midas · Behringer · Allen & Heath · Avid Pro Tools · QLab"
 }
