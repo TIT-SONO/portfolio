@@ -8,6 +8,7 @@ content:
     type: file
     path: content/site.json
     fields:
+      - { name: marque, label: Nom de l'entreprise, type: string }
       - { name: nom, label: Nom, type: string }
       - { name: metier, label: Métier, type: string }
       - name: heroImage
@@ -19,6 +20,13 @@ content:
       - { name: heroTitre, label: Titre sur la photo, type: string }
       - { name: heroTexte, label: Phrase sous le titre, type: string }
       - { name: profil, label: Profil, type: text }
+      - name: services
+        label: Services
+        type: object
+        list: true
+        fields:
+          - { name: titre, label: Titre, type: string }
+          - { name: texte, label: Texte, type: text }
       - name: expertise
         label: Expertise
         type: object

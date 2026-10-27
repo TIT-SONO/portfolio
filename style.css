@@ -57,3 +57,10 @@ body { margin:0; background:#fff; }
 #tm footer a { color:var(--dark-fg); }
 #tm .brands, #tm .legal { color:#b8b8b8; font-size:1rem; }
 #tm .legal { grid-column:1/-1; font-size:.9rem; border-top:1px solid #333; padding-top:16px; }
+#tm .cta { display:flex; flex-wrap:wrap; gap:12px; margin-top:18px; }
+#tm .btn { display:inline-flex; align-items:center; min-height:44px; padding:10px 18px; border-radius:3px; background:var(--link); color:#fff; border:2px solid var(--link); font-weight:600; text-decoration:none; }
+#tm .btn:hover { background:#a01f19; border-color:#a01f19; }
+#tm .btn.ghost { background:transparent; color:inherit; border-color:currentColor; }
+#tm .btn.ghost:hover { background:rgba(255,255,255,.12); }
+#tm footer .btn { color:#fff; }
+#tm footer .brands { color:#c8c8c8; font-size:.95rem; margin-top:10px; }

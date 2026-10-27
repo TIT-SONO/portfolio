@@ -1,13 +1,28 @@
 {
+  "marque": "Tit-Sono",
   "nom": "Tristan Morin",
   "metier": "Technicien de son",
   "heroImage": {
     "src": "/images/festiglace-foule.jpg",
     "alt": "Le public devant la scène extérieure du Festiglace, vu depuis la régie."
   },
-  "heroTitre": "Sonorisation · FOH · Musique",
-  "heroTexte": "Festivals, galas et événements, avec ou sans matériel.",
+  "heroTitre": "Sonorisation et technique audio pour vos événements",
+  "heroTexte": "Festivals, spectacles, galas et événements privés dans Lanaudière et les environs.",
   "profil": "J'étudie en Technologie sonore au Cégep de Drummondville. Je travaille surtout dans Lanaudière. Je peux arriver avec mon matériel ou travailler sur celui de la place.",
+  "services": [
+    {
+      "titre": "Avec mon matériel",
+      "texte": "J'arrive avec le système de son et je m'occupe de tout, de l'installation au démontage."
+    },
+    {
+      "titre": "Sur le système en place",
+      "texte": "Je prends la console de la salle ou du système loué et je fais le son de votre événement."
+    },
+    {
+      "titre": "Pour les entreprises de son",
+      "texte": "Disponible pour des contrats comme technicien : FOH, moniteurs ou lecture QLab."
+    }
+  ],
   "expertise": [
     {
       "titre": "FOH",
@@ -59,26 +74,6 @@
       }
     },
     {
-      "titre": "Course des Petits Loups",
-      "quand": "Saint-Côme, 2025 et 2026",
-      "texte": "Musique pendant la course, avec mon matériel.",
-      "photos": [],
-      "lien": {
-        "url": "",
-        "texte": ""
-      }
-    },
-    {
-      "titre": "Gala de la Goutte d'or",
-      "quand": "École secondaire des Chutes, Rawdon, depuis 2024 (dernier gala le 22 juin 2026)",
-      "texte": "Le son du gala de mon ancienne école, chaque année.",
-      "photos": [],
-      "lien": {
-        "url": "https://www.facebook.com/share/p/1CNbhQFPEV/",
-        "texte": "Voir les photos du gala 2026 sur Facebook"
-      }
-    },
-    {
       "titre": "Spectacle privé",
       "quand": "2025",
       "texte": "Installation complète pour un groupe live : micros, retours et façade.",
@@ -100,8 +95,24 @@
       }
     },
     {
+      "titre": "Secondaire en spectacle",
+      "quand": "École secondaire des Chutes, Rawdon, 2023",
+      "texte": "Le son de la finale locale, à la console en arrière de la salle.",
+      "photos": [
+        {
+          "src": "/images/ses-console.jpg",
+          "alt": "Tristan assis à la console de son, la salle de spectacle derrière lui.",
+          "legende": "Secondaire en spectacle 2023, à la console."
+        }
+      ],
+      "lien": {
+        "url": "",
+        "texte": ""
+      }
+    },
+    {
       "titre": "Chorale à l'église",
-      "quand": "[Lieu, année]",
+      "quand": "",
       "texte": "Les micros de la chorale et des musiciens devant le chœur, avec la diffusion pour toute l'église.",
       "photos": [
         {
@@ -121,19 +132,23 @@
       }
     },
     {
-      "titre": "Secondaire en spectacle",
-      "quand": "École secondaire des Chutes, Rawdon, 2023",
-      "texte": "Le son de la finale locale, à la console en arrière de la salle.",
-      "photos": [
-        {
-          "src": "/images/ses-console.jpg",
-          "alt": "Tristan assis à la console de son, la salle de spectacle derrière lui.",
-          "legende": "Secondaire en spectacle 2023, à la console."
-        }
-      ],
+      "titre": "Course des Petits Loups",
+      "quand": "Saint-Côme, 2025 et 2026",
+      "texte": "Musique pendant la course, avec mon matériel.",
+      "photos": [],
       "lien": {
         "url": "",
         "texte": ""
+      }
+    },
+    {
+      "titre": "Gala de la Goutte d'or",
+      "quand": "École secondaire des Chutes, Rawdon, depuis 2024 (dernier gala le 22 juin 2026)",
+      "texte": "Le son du gala de mon ancienne école, chaque année.",
+      "photos": [],
+      "lien": {
+        "url": "https://www.facebook.com/share/p/1CNbhQFPEV/",
+        "texte": "Voir les photos du gala 2026 sur Facebook"
       }
     }
   ],
