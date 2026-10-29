@@ -31,10 +31,6 @@
     {
       "titre": "Moniteurs de scène",
       "texte": "Gestion des retours pour aider les artistes à bien s’entendre sur scène."
-    },
-    {
-      "titre": "Lecture et diffusion audio",
-      "texte": "Musique d’ambiance et déclenchement de contenus audio avec QLab, selon les besoins de la production."
     }
   ],
   "outils": [
@@ -67,11 +63,7 @@
           "alt": "Un groupe sur scène dans une salle, avec la console Yamaha QL1 au premier plan.",
           "legende": "L'after du Festiglace, sur une QL1."
         }
-      ],
-      "lien": {
-        "url": "",
-        "texte": ""
-      }
+      ]
     },
     {
       "titre": "Spectacle privé",
@@ -88,11 +80,7 @@
           "alt": "La petite scène avec une batterie Yamaha, des micros sur pieds et deux enceintes de chaque côté.",
           "legende": "Spectacle privé, la scène prête avant les balances."
         }
-      ],
-      "lien": {
-        "url": "",
-        "texte": ""
-      }
+      ]
     },
     {
       "titre": "Secondaire en spectacle",
@@ -104,11 +92,7 @@
           "alt": "Tristan assis à la console de son, la salle de spectacle derrière lui.",
           "legende": "Secondaire en spectacle 2023, à la console."
         }
-      ],
-      "lien": {
-        "url": "",
-        "texte": ""
-      }
+      ]
     },
     {
       "titre": "Chorale à l'église",
@@ -124,27 +108,17 @@
           "alt": "Le chœur de l'église avec des pieds de micro et des lutrins devant l'autel.",
           "legende": "Chorale à l'église, l'installation devant le chœur."
         }
-      ],
-      "lien": {
-        "url": "",
-        "texte": ""
-      }
+      ]
     },
     {
       "titre": "Course des Petits Loups",
       "quand": "Saint-Côme, 2025 et 2026",
-      "texte": "Diffusion de musique pendant la course à Saint-Côme, avec mon propre matériel.",
-      "photos": [],
-      "lien": {
-        "url": "",
-        "texte": ""
-      }
+      "texte": "Diffusion de musique pendant la course à Saint-Côme, avec mon propre matériel."
     },
     {
       "titre": "Gala de la Goutte d'or",
       "quand": "École secondaire des Chutes, Rawdon, depuis 2024 (dernier gala le 22 juin 2026)",
       "texte": "Sonorisation du gala de mon ancienne école, auquel je contribue chaque année depuis 2024. Le lien ci-dessous mène à la publication du gala 2026.",
-      "photos": [],
       "lien": {
         "url": "https://www.facebook.com/share/p/1CNbhQFPEV/",
         "texte": "Voir les photos du gala 2026 sur Facebook"
